@@ -1367,6 +1367,7 @@ module URI
       end
       str
     end
+    alias to_str to_s
 
     #
     # Compares two URIs
